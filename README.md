@@ -80,7 +80,7 @@ Option             | Type    |  Default   | Description
 Un ejemplo con los paramtros pos default:
 
 ```javascript
-$( '.element' ).jpaginate( {
+$( '#example-1' ).jpaginate( {
             items: 10,
             next: "Next",
             previous: "Previous",
